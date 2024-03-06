@@ -5,7 +5,7 @@ $subject = $_POST['subject'];
 $message = $_POST['message'];
 
 
-$email_from = 'info@olamide537.github.io/icalliance/';
+$email_from = 'info@olamide537.github.io/website/';
 
 $email_subject = 'New Form Submission';
 
